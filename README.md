@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://gemini.google.com/share/09d1e3a30602)" width="100%" height="auto"/>
-  <h1>¡Hola! Soy Natacha Rodríguez 👋</h1>
-  <h3> QA Analyst | Tester Manual & Automation | </h3>
+  <img src="header_natacha.png" width="100%" alt="Hola Soy Natacha Rodriguez" />
 </div>
 
 ---
@@ -32,8 +30,8 @@ Organizo mis herramientas por áreas de especialización:
 ### 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigueznatacha&show_icons=true&theme=radical&hide_border=true" alt="Natacha's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigueznatacha&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigueznatacha&show_icons=true&theme=radical&hide_border=true&v=2" alt="Natacha's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigueznatacha&layout=compact&theme=radical&hide_border=true&v=2" alt="Top Languages" />
 </div>
 
 ---
@@ -43,5 +41,7 @@ Organizo mis herramientas por áreas de especialización:
 Si te interesa mi perfil o quieres hablar sobre Testing y calidad de software:
 
 <p align="left">
-<a href="[https://www.linkedin.com/in/natacharodriguezit/]()" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Natacha Rodriguez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/natacharodriguezit/" target="blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&label=Natacha%20Rodr%C3%ADguez" alt="LinkedIn de Natacha Rodríguez" />
+</a>
 </p>
