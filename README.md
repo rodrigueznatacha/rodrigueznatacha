@@ -3,14 +3,14 @@
 </div>
 
 ---
-
 ### 👩‍💻 Sobre mí
 
 ¡Bienvenido a mi portafolio! Soy una profesional en constante evolución.
-- 🧪 **Mi background:** Vengo de la Ingeniería Química, lo que me dio una base sólida en procesos, análisis crítico y atención al detalle.
-- 🔄 **Mi transición:** Decidí pivotar al mundo IT apasionada por la calidad del software.
-- 🔭 **Actualmente:** Trabajando como QA Manual en una multinacional y transicionando hacia **QA Automation**.
-- 🎓 **Logros:** Recientemente finalicé la Diplomatura en Calidad de Software (Testing Manual, SQL, API Testing y Automation).
+
+* :test_tube: **Mi background:** Vengo de la Ingeniería Química, lo que me dio una base sólida en procesos, análisis crítico y atención al detalle.
+* :arrows_counterclockwise: **Mi transición:** Decidí pivotar al mundo IT apasionada por la calidad del software.
+* :telescope: **Actualmente:** Trabajando como QA Manual en una multinacional y transicionando hacia **QA Automation**.
+* :mortar_board: **Logros:** Recientemente finalicé la Diplomatura en Calidad de Software (Testing Manual, SQL, API Testing y Automation).
 
 ---
 
@@ -29,10 +29,12 @@ Organizo mis herramientas por áreas de especialización:
 
 ### 📊 Mis Estadísticas en GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigueznatacha&show_icons=true&theme=radical&hide_border=true&v=2" alt="Natacha's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigueznatacha&layout=compact&theme=radical&hide_border=true&v=2" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigueznatacha&show_icons=true&theme=radical&hide_border=true" alt="Natacha's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigueznatacha&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -42,6 +44,6 @@ Si te interesa mi perfil o quieres hablar sobre Testing y calidad de software:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/natacharodriguezit/" target="blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&label=Natacha%20Rodr%C3%ADguez" alt="LinkedIn de Natacha Rodríguez" />
+  <img src="https://img.shields.io/badge/LinkedIn-Natacha_Rodr%C3%ADguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Natacha" />
 </a>
 </p>
