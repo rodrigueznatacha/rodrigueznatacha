@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto"/>
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://gemini.google.com/share/09d1e3a30602)" width="100%" height="auto"/>
   <h1>¡Hola! Soy Natacha Rodríguez 👋</h1>
   <h3> QA Analyst | Tester Manual & Automation | </h3>
 </div>
